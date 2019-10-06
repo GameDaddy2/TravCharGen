@@ -1,6 +1,6 @@
 #
 # Traveller Character Generator v 0.1
-# 01/6/2019
+# 10/6/2019
 # By Dirk T. Collins  collins.dirk@gmail.com
 # Classic Traveller Generator Built in Python
 #
